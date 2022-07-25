@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\bin\Debug\net6.0\Examples005_IfElse.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\bin\Debug\net6.0\Examples005_IfElse.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\bin\Debug\net6.0\Examples005_IfElse.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\bin\Debug\net6.0\Examples005_IfElse.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\bin\Debug\net6.0\Examples005_IfElse.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\refint\Examples005_IfElse.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\Examples005_IfElse.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples005_IfElse\obj\Debug\net6.0\ref\Examples005_IfElse.dll
