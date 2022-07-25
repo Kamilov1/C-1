@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\bin\Debug\net6.0\Examples004_Sum2.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\bin\Debug\net6.0\Examples004_Sum2.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\bin\Debug\net6.0\Examples004_Sum2.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\bin\Debug\net6.0\Examples004_Sum2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\bin\Debug\net6.0\Examples004_Sum2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\refint\Examples004_Sum2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\Examples004_Sum2.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples004_Sum2\obj\Debug\net6.0\ref\Examples004_Sum2.dll
