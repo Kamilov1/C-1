@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\bin\Debug\net6.0\Examples007_TheEnd.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\bin\Debug\net6.0\Examples007_TheEnd.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\bin\Debug\net6.0\Examples007_TheEnd.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\bin\Debug\net6.0\Examples007_TheEnd.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\bin\Debug\net6.0\Examples007_TheEnd.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\refint\Examples007_TheEnd.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\Examples007_TheEnd.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples007_TheEnd\obj\Debug\net6.0\ref\Examples007_TheEnd.dll
