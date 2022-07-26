@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\bin\Debug\net6.0\Examples006_Baze.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\bin\Debug\net6.0\Examples006_Baze.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\bin\Debug\net6.0\Examples006_Baze.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\bin\Debug\net6.0\Examples006_Baze.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\bin\Debug\net6.0\Examples006_Baze.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\refint\Examples006_Baze.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\Examples006_Baze.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples006_Baze\obj\Debug\net6.0\ref\Examples006_Baze.dll
