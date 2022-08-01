@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\refint\Examples010_MethodArray.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples010_MethodArray\obj\Debug\net6.0\ref\Examples010_MethodArray.dll
