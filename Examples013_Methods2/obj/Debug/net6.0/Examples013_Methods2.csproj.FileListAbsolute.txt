@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\bin\Debug\net6.0\Examples013_Methods2.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\bin\Debug\net6.0\Examples013_Methods2.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\bin\Debug\net6.0\Examples013_Methods2.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\bin\Debug\net6.0\Examples013_Methods2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\bin\Debug\net6.0\Examples013_Methods2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\refint\Examples013_Methods2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\Examples013_Methods2.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples013_Methods2\obj\Debug\net6.0\ref\Examples013_Methods2.dll
