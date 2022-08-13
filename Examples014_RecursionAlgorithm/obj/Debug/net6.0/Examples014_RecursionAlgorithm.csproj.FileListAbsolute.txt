@@ -1,0 +1,15 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\bin\Debug\net6.0\Examples014_RecursionAlgorithm.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\bin\Debug\net6.0\Examples014_RecursionAlgorithm.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\bin\Debug\net6.0\Examples014_RecursionAlgorithm.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\bin\Debug\net6.0\Examples014_RecursionAlgorithm.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\bin\Debug\net6.0\Examples014_RecursionAlgorithm.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\refint\Examples014_RecursionAlgorithm.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\Examples014_RecursionAlgorithm.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Examples\Examples014_RecursionAlgorithm\obj\Debug\net6.0\ref\Examples014_RecursionAlgorithm.dll
